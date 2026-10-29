@@ -244,15 +244,13 @@ Add your actual screenshots to `docs/screenshots/` and display them here.
 
 ![GitHub Repository](https://raw.githubusercontent.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/refs/heads/main/GitHub%20Repository.png)  
 
+### Deployment Backup
+
+![Deployment Backup](https://raw.githubusercontent.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/refs/heads/main/Deployment%20Backup.png)
+
 ### Tomcat Application
 
-![Tomcat Application](docs/screenshots/tomcat-application.png)
-
-### Deployment Backups
-
-![Deployment Backups](docs/screenshots/deployment-backups.png)
-
-*Replace these image paths with the real screenshots you upload. Remove any image entry for which you have not added a screenshot.*
+![Tomcat Application](https://raw.githubusercontent.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/refs/heads/main/Tomcat%20Application.png)
 
 ## 🧰 Troubleshooting
 
