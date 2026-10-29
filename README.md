@@ -242,7 +242,7 @@ Add your actual screenshots to `docs/screenshots/` and display them here.
 
 ### GitHub Repository
 
-![GitHub Repository](https://raw.githubusercontent.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/refs/heads/main/GitHub%20Repository.png)
+![GitHub Repository](https://raw.githubusercontent.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/refs/heads/main/GitHub%20Repository.png)  
 
 ### Tomcat Application
 
