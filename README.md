@@ -33,6 +33,12 @@ The objective is to reduce manual deployment tasks, maintain backup copies, appl
 | Linux Permissions & Sudo | Controlled deployment access |
 | curl | Deployment verification |
 
+## 📄 Project Documentation
+
+1. 📘 [Jenkins CI/CD Pipeline – GitHub Integration, Automated Build, Deployment & Testing on Linux Server (PDF)](https://github.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/blob/main/Jenkins%20CI_CD%20Pipeline_%20GitHub%20Integration%2C%20Automated%20Build%2C%20Deployment%20%26%20Testing%20on%20Linux%20Server.pdf)
+
+2. 📗 [Jenkins CI/CD Pipeline – Tomcat & Apache: GitHub Integration, Automated Build, Deployment & Testing on Linux Server (PDF)](https://github.com/amitpachpute2510/Jenkins-CI-CD-Automation-Apache-Tomcat/blob/main/Jenkins%20CI_CD%20Pipeline%20%20Tomcat-Apache%20_%20GitHub%20Integration%2C%20Automated%20Build%2C%20Deployment%20%26%20Testing%20on%20Linux%20Server.pdf)
+
 ## 🏗️ Project Architecture
 
 ```text
